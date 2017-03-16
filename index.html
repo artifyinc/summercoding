@@ -1,5 +1,7 @@
 <!DOCTYPE HTML>
 <head>
+    <title>2017 Summer Coding</title>
+
     <!-- meta -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
@@ -10,13 +12,20 @@
 
     <!-- scripts -->
     <script type="text/javascript" src="js/plugin/jquery-3.1.1.min.js"></script>
-    <script type="text/javascript" src="js/plugin/paper-full.min.js"></script>
-    <script type="text/paperscript" canvas="waveCanvas" src="js/paper.js"></script>
+    <script type="text/javascript" src="js/plugin/jquery.color-2.1.2.min.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
     <script type="text/javascript">
-        $(window).on('load', function(e) {
+        // LOADING PAGE
+        $(window).on('load', function(){
             $('body').css('opacity', '1');
         });
+
+        $(document).ready(function(){
+            Content.init();
+        });
     </script>
+    <script type="text/javascript" src="js/plugin/paper-full.min.js"></script>
+    <script type="text/paperscript" canvas="waveCanvas" src="js/paper.js"></script>
 </head>
 <body style="opacity: 0">
     <header id="header" class="wrapper">
@@ -41,7 +50,7 @@
                     </ins>
                 </h2>
                 <div class="main-btn">
-                    <button class="main-btn-obj show-more">Explore Opportunities</button>
+                    <button class="main-btn-obj btn-explore">Explore Opportunities</button>
                     <span class="main-btn-desc">인턴십 가능 기업 리스트를 보고 멋진 기회를 잡으세요</span>
                 </div>
             </div>
@@ -58,9 +67,20 @@
                     </ins>
                 </h2>
                 <ul class="main-item companies-list">
+                    <li class="companies-item">
+                        <figure class="item-image-wrapper">
+                            <img class="item-image-nor">
+                            <img class="item-image-sel">
+                        </figure>
+                        <h4 class="item-title">
+                            <b></b> <span></span>
+                        </h4>
+                        <p class="item-desc"></p>
+                        <a class="item-link" target="_blank"></a>
+                    </li>
                 </ul>
                 <div class="main-btn">
-                    <button class="main-btn-obj show-more">See All Internships</button>
+                    <button class="main-btn-obj btn-showmore">See All Internships</button>
                     <span class="main-btn-desc">인턴십 가능 기업 리스트를 펼쳐보세요</span>
                 </div>
             </div>
@@ -69,10 +89,10 @@
             <div class="main-content">
                 <h2 class="main-title">
                     <em class="title-maintext">
-                        SummerCoding.<span class="t-r">internship_list</span>(<span class="t-g">true</span>);
+                        SummerCoding.<span class="t-r">internship_notice</span>(<span class="t-g">'who', 'when'</span>);
                     </em>
                     <ins class="title-subtext">
-                        <em>/*</em> 2017 여름 <b>인턴 가능</b> 기업 리스트 <em>*/</em>
+                        <b>/*</b> 인턴십 <b>지원 대상</b> 및 인턴십 <b>일정 안내</b> <b>*/</b>
                     </ins>
                 </h2>
                 <ul class="main-item details-list">
@@ -85,17 +105,17 @@
                     <li class="details-item">
                         <h3 class="item-title">인턴십 상세 일정</h3>
                         <p class="item-content">
-                            <em>1. 신청기간:</em> 2017년 4월 30일 23:59 까지
-                            <em>2. 서류검토:</em> 2017년 5월 1일 ~ 5월 5일
-                            <em>3. 스타트업 면접 및 채용 통보:</em> 2017년 5월 8일 ~ 5월 12일
-                            <em>4. 인턴십 기간<b>*</b>:</em> 2017년 7월 3일 ~ 8월 25일
-                            <em>5. 급여<b>*</b>:</em> 150만 원/월
-                            <ins class="item-content-additional">* 회사마다 상이할 수 있습니다.</ins>
+                            <em>1. 신청기간:</em> &nbsp;2017년 4월 30일 23:59 까지<br>
+                            <em>2. 서류검토:</em> &nbsp;2017년 5월 1일 ~ 5월 5일<br>
+                            <em>3. 스타트업 면접 및 채용 통보:</em> &nbsp;2017년 5월 8일 ~ 5월 12일<br>
+                            <em>4. 인턴십 기간<b class="t-r">*</b>:</em> &nbsp;2017년 7월 3일 ~ 8월 25일<br>
+                            <em>5. 급여<b class="t-r">*</b>:</em> &nbsp;150만 원/월<br>
+                            <ins class="item-content-additional t-r">* 회사마다 상이할 수 있습니다.</ins>
                         </p>
                     </li>
                 </ul>
                 <div class="main-btn">
-                    <button class="main-btn-obj show-more">Apply for an Internship</button>
+                    <button class="main-btn-obj btn-apply">Apply for an Internship</button>
                     <span class="main-btn-desc">여름 인턴십에 지금 지원해보세요 :-)</span>
                 </div>
             </div>
@@ -104,7 +124,7 @@
     <footer id="footer" class="wrapper">
         <div class="footer-content">
             <em>&copy; 2017 Summer Coding</em>
-            <a href="#">인턴십 관련 문의</a>
+            <a href="#">문의하기</a>
         </div>
     </footer>
 </body>

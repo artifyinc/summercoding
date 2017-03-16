@@ -1,0 +1,100 @@
+{
+    "companies": [
+        {
+            "name_en": "8PERCENT",
+            "name_kr": "에잇퍼센트",
+            "image": "8percent",
+            "color": "400090",
+            "desc": "P2P금융 국내 대표기업",
+            "link": "https://8percent.kr/"
+        },
+        {
+            "name_en": "acciio",
+            "name_kr": "아씨오",
+            "image": "acciio",
+            "color": "9ccc65",
+            "desc": "가장 간단하게, 또 완벽하게 당신의 집을 스마트홈으로 바꾸는 방법",
+            "link": "http://www.acciio.com/"
+        },
+        {
+            "name_en": "Viva Republica",
+            "name_kr": "비바리퍼블리카",
+            "image": "viva_republica",
+            "color": "4e7bfa",
+            "desc": "돈을 보내는 가장 심플한 방법. 계좌번호가 담긴 문자를 복사하고 암호만 입력하면 송금 끝!",
+            "link": "http://toss.im/"
+        },
+        {
+            "name_en": "8PERCENT",
+            "name_kr": "에잇퍼센트",
+            "image": "8percent",
+            "color": "400090",
+            "desc": "P2P금융 국내 대표기업",
+            "link": "https://8percent.kr/"
+        },
+        {
+            "name_en": "acciio",
+            "name_kr": "아씨오",
+            "image": "acciio",
+            "color": "9ccc65",
+            "desc": "가장 간단하게, 또 완벽하게 당신의 집을 스마트홈으로 바꾸는 방법",
+            "link": "http://www.acciio.com/"
+        },
+        {
+            "name_en": "Viva Republica",
+            "name_kr": "비바리퍼블리카",
+            "image": "viva_republica",
+            "color": "4e7bfa",
+            "desc": "돈을 보내는 가장 심플한 방법. 계좌번호가 담긴 문자를 복사하고 암호만 입력하면 송금 끝!",
+            "link": "http://toss.im/"
+        },
+        {
+            "name_en": "8PERCENT",
+            "name_kr": "에잇퍼센트",
+            "image": "8percent",
+            "color": "400090",
+            "desc": "P2P금융 국내 대표기업",
+            "link": "https://8percent.kr/"
+        },
+        {
+            "name_en": "acciio",
+            "name_kr": "아씨오",
+            "image": "acciio",
+            "color": "9ccc65",
+            "desc": "가장 간단하게, 또 완벽하게 당신의 집을 스마트홈으로 바꾸는 방법",
+            "link": "http://www.acciio.com/"
+        },
+        {
+            "name_en": "Viva Republica",
+            "name_kr": "비바리퍼블리카",
+            "image": "viva_republica",
+            "color": "4e7bfa",
+            "desc": "돈을 보내는 가장 심플한 방법. 계좌번호가 담긴 문자를 복사하고 암호만 입력하면 송금 끝!",
+            "link": "http://toss.im/"
+        },
+        {
+            "name_en": "8PERCENT",
+            "name_kr": "에잇퍼센트",
+            "image": "8percent",
+            "color": "400090",
+            "desc": "P2P금융 국내 대표기업",
+            "link": "https://8percent.kr/"
+        },
+        {
+            "name_en": "acciio",
+            "name_kr": "아씨오",
+            "image": "acciio",
+            "color": "9ccc65",
+            "desc": "가장 간단하게, 또 완벽하게 당신의 집을 스마트홈으로 바꾸는 방법",
+            "link": "http://www.acciio.com/"
+        },
+        {
+            "name_en": "Viva Republica",
+            "name_kr": "비바리퍼블리카",
+            "image": "viva_republica",
+            "color": "4e7bfa",
+            "desc": "돈을 보내는 가장 심플한 방법. 계좌번호가 담긴 문자를 복사하고 암호만 입력하면 송금 끝!",
+            "link": "http://toss.im/"
+        }
+    ]
+}
