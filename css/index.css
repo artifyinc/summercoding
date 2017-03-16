@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
-
 /*
  * Noto Sans KR
  *
@@ -44,4 +42,29 @@ span, b, strong, i, em, mark, small, del, ins, sub, sup{
     display: inline;
     font-style: normal;
     text-decoration: none;
+}
+
+
+/*
+ * HEADER
+ */
+
+#header{
+
+}
+
+/*
+ * MAIN
+ */
+
+#main{
+
+}
+
+/*
+ * FOOTER
+ */
+
+#footer{
+
 }
