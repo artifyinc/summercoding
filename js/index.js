@@ -1,0 +1,1 @@
+/* do something such as basic scripts */
