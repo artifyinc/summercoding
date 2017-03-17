@@ -61,13 +61,18 @@
 
     .main-title .title-maintext{
         font-size: 22px;
-        word-break: break-all;
+        word-wrap: break-word;
+    }
+
+    .main-title .title-maintext span{
+        display: inline-block;
+        word-wrap: break-word;
     }
 
     .main-title .title-subtext{
         margin-top: 4px;
         font-size: 17px;
-        word-break: break-all;
+        word-wrap: break-word;
     }
 
     /* page-intro */
