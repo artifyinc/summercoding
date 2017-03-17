@@ -143,6 +143,7 @@ em{
 .main-content-wrapper{
     width: 100%;
     display: inline-block;
+    float: left;
 }
 
 .main-content-wrapper:nth-child(odd){
@@ -187,8 +188,13 @@ em{
     margin-left: -150px;
 }
 
+.main-title{
+    width: 100%;
+}
+
 .main-title .title-maintext{
     display: block;
+    width: 100%;
     color: #53565b;
     font-size: 23px;
     font-weight: 700;
@@ -197,6 +203,7 @@ em{
 
 .main-title .title-subtext{
     display: block;
+    width: 100%;
     color: rgba(96, 100, 105, 0.6);
     font-size: 18px;
     font-weight: 300;
@@ -232,6 +239,8 @@ em{
 }
 
 .page-intro .main-title{
+    margin-left: -20px;
+    padding: 0 20px;
     margin-top: -10px;
     position: absolute;
     top: 50%;
