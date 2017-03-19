@@ -459,6 +459,7 @@ em{
 
 .footer-content em{
     float: left;
+    width: 200px;
 }
 
 .footer-content a{
