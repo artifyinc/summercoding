@@ -1,28 +1,12 @@
 {
     "companies": [
         {
-            "name_en": "8PERCENT",
-            "name_kr": "에잇퍼센트",
-            "image": "8percent",
-            "color": "400090",
-            "desc": "P2P금융 국내 대표기업",
-            "link": "https://8percent.kr/"
-        },
-        {
-            "name_en": "acciio",
-            "name_kr": "아씨오",
-            "image": "acciio",
-            "color": "9ccc65",
-            "desc": "가장 간단하게, 또 완벽하게 당신의 집을 스마트홈으로 바꾸는 방법",
-            "link": "http://www.acciio.com/"
-        },
-        {
-            "name_en": "Viva Republica",
-            "name_kr": "비바리퍼블리카",
-            "image": "viva_republica",
-            "color": "4e7bfa",
-            "desc": "돈을 보내는 가장 심플한 방법. 계좌번호가 담긴 문자를 복사하고 암호만 입력하면 송금 끝!",
-            "link": "http://toss.im/"
+            "name_en": "RSQUARE",
+            "name_kr": "알스퀘어",
+            "image": "rsquare",
+            "color": "c82128",
+            "desc": "\"사무실 찾을 땐, 알스퀘어\" - 매물 전체 직접 전수조사를 실현한 사무실 임대차 중개 서비스 \"알스퀘어\"를 제공하고 있는 회사",
+            "link": "https://rsquare.co.kr/"
         },
         {
             "name_en": "8PERCENT",
@@ -33,52 +17,44 @@
             "link": "https://8percent.kr/"
         },
         {
-            "name_en": "acciio",
-            "name_kr": "아씨오",
-            "image": "acciio",
-            "color": "9ccc65",
-            "desc": "가장 간단하게, 또 완벽하게 당신의 집을 스마트홈으로 바꾸는 방법",
-            "link": "http://www.acciio.com/"
+            "name_en": "QARA",
+            "name_kr": "카라",
+            "image": "qara",
+            "color": "2c3682",
+            "desc": "All-In-One 투자 솔루션 | 온라인 투자의 새로운 패러다임을 제시합니다.",
+            "link": "https://www.qaracoop.com/"
         },
         {
-            "name_en": "Viva Republica",
-            "name_kr": "비바리퍼블리카",
-            "image": "viva_republica",
-            "color": "4e7bfa",
-            "desc": "돈을 보내는 가장 심플한 방법. 계좌번호가 담긴 문자를 복사하고 암호만 입력하면 송금 끝!",
-            "link": "http://toss.im/"
+            "name_en": "grepp, Inc",
+            "name_kr": "그렙",
+            "image": "grepp",
+            "color": "e83921",
+            "desc": "개발자들의 성장, 개발자들의 구인구직, 소프트웨어 가치의 사회적 확산",
+            "link": "http://www.grepp.co/"
         },
         {
-            "name_en": "8PERCENT",
-            "name_kr": "에잇퍼센트",
-            "image": "8percent",
-            "color": "400090",
-            "desc": "P2P금융 국내 대표기업",
-            "link": "https://8percent.kr/"
+            "name_en": "MVERSE",
+            "name_kr": "엠버스",
+            "image": "mverse",
+            "color": "ff6135",
+            "desc": "쇼핑 도우미, \"써프라이즈\" 를 운영하는 회사입니다.",
+            "link": "http://appsurprise.co.kr/app"
         },
         {
-            "name_en": "acciio",
-            "name_kr": "아씨오",
-            "image": "acciio",
-            "color": "9ccc65",
-            "desc": "가장 간단하게, 또 완벽하게 당신의 집을 스마트홈으로 바꾸는 방법",
-            "link": "http://www.acciio.com/"
+            "name_en": "Angelswing",
+            "name_kr": "엔젤스윙",
+            "image": "angelswing",
+            "color": "16479f",
+            "desc": "드론 전문 데이터 서비스. 드론 정사사진, 영상, 항공측량, 데이터 프로세스.",
+            "link": "http://www.angelswing.org/"
         },
         {
-            "name_en": "Viva Republica",
-            "name_kr": "비바리퍼블리카",
-            "image": "viva_republica",
-            "color": "4e7bfa",
-            "desc": "돈을 보내는 가장 심플한 방법. 계좌번호가 담긴 문자를 복사하고 암호만 입력하면 송금 끝!",
-            "link": "http://toss.im/"
-        },
-        {
-            "name_en": "8PERCENT",
-            "name_kr": "에잇퍼센트",
-            "image": "8percent",
-            "color": "400090",
-            "desc": "P2P금융 국내 대표기업",
-            "link": "https://8percent.kr/"
+            "name_en": "Angelswing",
+            "name_kr": "엔젤스윙",
+            "image": "angelswing",
+            "color": "16479f",
+            "desc": "드론 전문 데이터 서비스. 드론 정사사진, 영상, 항공측량, 데이터 프로세스.",
+            "link": "http://www.angelswing.org/"
         },
         {
             "name_en": "acciio",
@@ -89,12 +65,149 @@
             "link": "http://www.acciio.com/"
         },
         {
+            "name_en": "vonvon",
+            "name_kr": "봉봉",
+            "image": "vonvon",
+            "color": "f25c85",
+            "desc": "글로벌 소셜 미디어 봉봉",
+            "link": "http://kr.vonvon.me/about"
+        },
+
+        {
             "name_en": "Viva Republica",
             "name_kr": "비바리퍼블리카",
-            "image": "viva_republica",
+            "image": "vivarepublica",
             "color": "4e7bfa",
             "desc": "돈을 보내는 가장 심플한 방법. 계좌번호가 담긴 문자를 복사하고 암호만 입력하면 송금 끝!",
             "link": "http://toss.im/"
+        },
+        {
+            "name_en": "Balance Hero",
+            "name_kr": "밸런스히어로",
+            "image": "balancehero",
+            "color": "3e3e3e",
+            "desc": "Fun & Colourful한 선불폰 사용경험을 인도지역 스마트폰 유저에게 선사하는 해외향 개발사",
+            "link": "http://truebalance.io/"
+        },
+        {
+            "name_en": "RIDI Corp",
+            "name_kr": "리디주식회사",
+            "image": "ridi",
+            "color": "1d8eee",
+            "desc": "리디는 MUST-USE 전자책을 만듭니다",
+            "link": "http://www.ridicorp.com/"
+        },
+        {
+            "name_en": "Plating",
+            "name_kr": "플레이팅",
+            "image": "plating",
+            "color": "979287",
+            "desc": "셰프들의 고메요리 딜리버리 서비스",
+            "link": "https://plating.co.kr/"
+        },
+        {
+            "name_en": "Hyperconnect",
+            "name_kr": "하이퍼커넥트",
+            "image": "hyperconnect",
+            "color": "33cc99",
+            "desc": "아자르(Azar) 영상메신저를 개발한 글로벌 스타트업",
+            "link": "https://career.hpcnt.com/about-hyperconnect/"
+        },
+        {
+            "name_en": "Vendys",
+            "name_kr": "식권대장",
+            "image": "vendys",
+            "color": "32ba55",
+            "desc": "식권대장, 최초 모바일 식권",
+            "link": "http://www.sikdae.co.kr/"
+        },
+        {
+            "name_en": "CODIGM",
+            "name_kr": "코다임",
+            "image": "codigm",
+            "color": "008bf4",
+            "desc": "코다임은 Code + Paradigm이라는 의미로 클라우드 통합 개발 환경 서비스 Goorm IDE 와 프로그래밍 교육 서비스 Goorm EDU 개발 및 공급",
+            "link": "http://codigm.com/"
+        },
+        {
+            "name_en": "shareNcare",
+            "name_kr": "쉐어앤케어",
+            "image": "sharencare",
+            "color": "53585a",
+            "desc": "공유로 기부하는 shareNcare",
+            "link": "http://sharencare.me/"
+        },
+        {
+            "name_en": "Tourbucket",
+            "name_kr": "투어버킷",
+            "image": "tourbucket",
+            "color": "16497b",
+            "desc": "투어버킷, 여행을 가까이 더 가볍게",
+            "link": "http://www.tourbucket.co.kr/"
+        },
+        {
+            "name_en": "VoyagerX",
+            "name_kr": "보이저엑스",
+            "image": "voyagerx",
+            "color": "21201e",
+            "desc": "나와 가족과 친구들을 위한 인공지능을 만듭니다.",
+            "link": "https://www.facebook.com/dgtgrade"
+        },
+        {
+            "name_en": "LENDIT",
+            "name_kr": "렌딧",
+            "image": "lendit",
+            "color": "17ccb4",
+            "desc": "P2P금융 전문기업",
+            "link": "https://www.lendit.co.kr/"
+        },
+        {
+            "name_en": "Retrica",
+            "name_kr": "레트리카",
+            "image": "retrica",
+            "color": "e54900",
+            "desc": "누적 다운로드 3억 필터 카메라앱",
+            "link": "http://retrica.co/"
+        },
+        {
+            "name_en": "Codebrick",
+            "name_kr": "코드브릭",
+            "image": "codebrick",
+            "color": "f78f1d",
+            "desc": "동남아시아 컴퍼니빌더",
+            "link": "http://codebrick.co/"
+        },
+        {
+            "name_en": "dabeeo",
+            "name_kr": "다비오",
+            "image": "dabeeo",
+            "color": "f1592a",
+            "desc": "Dabeeo is a leading global provider of custom map solutions and services.",
+            "link": "http://www.dabeeo.com/"
+        },
+        {
+            "name_en": "Partner",
+            "name_kr": "파트너",
+            "image": "partner",
+            "color": "2b2b2b",
+            "desc": "GRAP은 협업을 위한 기업용 소셜네트워크 서비스입니다.",
+            "link": "http://grap.io/"
+        },
+        {
+            "name_en": "Blue night",
+            "name_kr": "푸른밤",
+            "image": "albam",
+            "color": "03a9f4",
+            "desc": "Small business 사업자를 위한 클라우드 기반의 HRM 서비스, 알밤 운영",
+            "link": "http://www.albam.me/"
+        },
+        {
+            "name_en": "Bucketplace",
+            "name_kr": "버킷플레이스",
+            "image": "bucketplace",
+            "color": "16497b",
+            "desc": "국내1등 인테리어 공유 서비스 '오늘의집'을 만들어가는 회사입니다",
+            "link": "http://ohou.se/"
         }
     ]
 }
