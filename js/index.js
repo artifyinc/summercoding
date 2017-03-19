@@ -37,7 +37,14 @@ Content.buttonClick = function(e){
     }else if($(_btn).hasClass('btn-showmore')){
         Content.drawCompanies('all');
     }else if($(_btn).hasClass('btn-apply')){
-        alert("APPLY?");
+        ga('send', {
+            hitType: 'event',
+            eventCategory: '2017 Summer Internship',
+            eventAction: 'Apply',
+            eventLabel: 'Apply 2017 Summer Internship'
+        });
+        window.open('https://docs.google.com/forms/d/e/1FAIpQLSeF7waLDh9cSgl3OU9jqmdX8uJ13-qXE0iPJ9H1WP1R2Dz66A/viewform?usp=sf_link')
+        //alert("APPLY?");
     }
 };
 
